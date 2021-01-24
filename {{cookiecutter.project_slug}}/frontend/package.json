@@ -16,7 +16,7 @@
     "typesafe-vuex": "3.2.2",
     "vee-validate": "2.2.15",
     "vue": "2.6.12",
-    "vue-class-component": "6.3.2",
+    "vue-class-component": "7.2.6",
     "vue-property-decorator": "7.3.0",
     "vue-router": "3.4.9",
     "vuetify": "1.5.24",
