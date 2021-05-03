@@ -11,7 +11,7 @@
   "dependencies": {
     "@babel/polyfill": "7.12.1",
     "axios": "0.21.1",
-    "core-js": "3.11.1",
+    "core-js": "3.11.2",
     "register-service-worker": "1.7.2",
     "typesafe-vuex": "3.2.2",
     "vee-validate": "3.4.5",
