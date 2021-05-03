@@ -11,7 +11,7 @@ fastapi = "^0.63.0"
 python-multipart = "^0.0.5"
 email-validator = "^1.0.5"
 requests = "^2.23.0"
-celery = "^4.4.2"
+celery = "^5.0.0"
 passlib = {extras = ["bcrypt"], version = "^1.7.2"}
 tenacity = "^7.0.0"
 pydantic = "^1.4"
